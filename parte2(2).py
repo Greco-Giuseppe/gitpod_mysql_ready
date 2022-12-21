@@ -20,7 +20,7 @@ mycursor.execute("CREATE TABLE customers (name VARCHAR(255), address VARCHAR(255
 # CHIAVE PRIMARIA
 #Quando crei una tabella, dovresti anche creare una colonna con una chiave univoca
 #'istruzione "INT AUTO_INCREMENT PRIMARY KEY" che inserirà un numero univoco per ogni record. A partire da 1 e aumentato di uno per ogni record.
-#record = 
+#record = righe
 
 #Crea chiave primaria durante la creazione della tabella:
 import mysql.connector
