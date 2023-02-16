@@ -14,7 +14,7 @@ mycursor = mydb.cursor()
 mycursor.execute("CREATE DATABASE mydatabase") #Per creare un database in MySQL, usa l'istruzione "CREATE DATABASE":
 
 mycursor.execute("SHOW DATABASES") #Puoi controllare se esiste un database elencando tutti i database nel tuo sistema usando l'istruzione "SHOW DATABASES":
-
+# devo stampare  per vederlo
 
 
 
